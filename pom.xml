@@ -145,11 +145,6 @@
   </licenses>
     
   <distributionManagement>
-    <site>
-      <id>beigesoft</id>
-      <name>beigesoft</name>
-      <url>http://www.beigesoft.org</url>
-    </site>
     <snapshotRepository>
       <id>ossrh</id>
       <url>https://oss.sonatype.org/content/repositories/snapshots</url>
