@@ -161,9 +161,9 @@
   </distributionManagement>
   
   <scm>
+    <url>https://github.com/demidenko05/a-javabeans.git</url>
     <connection>scm:git:git@github.com:demidenko05/a-javabeans.git</connection>
     <developerConnection>scm:git:git@github.com:demidenko05/a-javabeans.git</developerConnection>
-    <url>git@github.com:demidenko05/a-javabeans.git</url>
     <tag>HEAD</tag>
   </scm>
 
