@@ -4,7 +4,7 @@
 
   <groupId>com.github.demidenko05</groupId>
   <artifactId>a-javabeans</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   
   <name>OpenJDK7 javabeans for android.</name>
   <description>Adapted (moved from java.beans to ajava.beans) OpenJDK7 javabeans for Android. It's used by A-Jetty (Jetty 9.2 adapted for Android.)</description>
