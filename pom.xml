@@ -136,6 +136,18 @@
     </contributor>
   </contributors>
 
+  <developers>
+    <developer><name>Laurence P. G. Cable</name></developer>
+    <developer><name>Sergey A. Malenkov</name></developer>
+    <developer><name>Eamonn McManus</name></developer>
+    <developer><name>Philip Milne</name></developer>
+    <developer><name>Hans Muller</name></developer>
+    <developer><name>Mark Davidson</name></developer>
+    <developer><name>John R. Rose</name></developer>
+    <developer><name>Josh Bloch</name></developer>
+    <developer><name>Steve Langley</name></developer>
+  </developers>
+
   <licenses>
     <license>
       <name>GNU General Public License version 2</name>
